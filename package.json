@@ -16,6 +16,7 @@
   },
   "browserslist": "last 2 versions",
   "dependencies": {
+    "@types/googlemaps": "^3.26.16",
     "axios": "0.15.3",
     "body-parser": "1.17.1",
     "connect-flash": "0.1.1",
